@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.github.com/hoshinonyaruko/holoclip">
-    <img src="images/1.png" width="200" height="200" alt="holoclip">
+    <img src="pic/1.png" width="200" height="200" alt="holoclip">
   </a>
 </p>
 
